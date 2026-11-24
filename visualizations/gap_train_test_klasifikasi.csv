@@ -1,0 +1,5 @@
+Model,Train Accuracy,Test Accuracy,Gap
+RM1 Baseline RF,1.0,0.9189,0.0811
+RM2 RF + Feature Selection,1.0,0.9054,0.0946
+RM3 RF + GridSearchCV,1.0,0.9189,0.0811
+RM4 RF + FS + GridSearchCV,1.0,0.8784,0.1216

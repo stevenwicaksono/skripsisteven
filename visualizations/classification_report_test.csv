@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+Rendah,91.89,85.0,88.31,40.0
+Tinggi,83.78,91.18,87.32,34.0
+accuracy,87.84,87.84,87.84,0.8783783783783784
+macro avg,87.84,88.09,87.82,74.0
+weighted avg,88.17,87.84,87.86,74.0
